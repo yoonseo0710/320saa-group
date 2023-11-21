@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bootstrap Group Assignment",
   "scripts": {
-    "start": "lite-server --baseDir=\"public\"" 
+    "start": "lite-server --baseDir=\"public\""
   },
   "author": "Challete (Chat) Ferrolino, Yoonseo Lee",
   "license": "private",
